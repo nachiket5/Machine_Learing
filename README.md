@@ -1,7 +1,7 @@
 # Machine Learning
+Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses on developing systems that can learn from data and improve their performance over time without explicit programming. By leveraging algorithms and statistical models, ML enables computers to identify patterns, make decisions, and predict outcomes.
 
 ----
-
 # Overview
 This repository contains various projects and practice notebooks related to machine learning, data preprocessing, and exploratory data analysis. It is designed to showcase my journey in mastering machine learning concepts, Python libraries, and data science workflows.
 
